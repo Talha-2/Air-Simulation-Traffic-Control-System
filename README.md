@@ -18,29 +18,6 @@ It simulates **aircraft movements**, **task scheduling**, **resource reservation
   - Task details display.
 - **Shortest Path Calculation**: Dijkstra’s Algorithm for optimal route planning.
 
----
-
-## 📸 Screenshots
-
-### 1️⃣ Login Page
-
-<img width="683" height="429" alt="image" src="https://github.com/user-attachments/assets/be19fbd6-2d2d-424b-8082-c10946e64051" />
-
-
----
-
-### 2️⃣ Plane Form
-
-<img width="438" height="435" alt="image" src="https://github.com/user-attachments/assets/c10546d2-bc94-4d2a-973b-672f14930691" />
-
-
----
-
-### 3️⃣ Plane Data Input
-
-
-<img width="537" height="357" alt="image" src="https://github.com/user-attachments/assets/47727d61-6112-4348-a043-552151a3840c" />
-
 
 ---
 
