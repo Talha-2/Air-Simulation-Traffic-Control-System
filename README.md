@@ -97,25 +97,29 @@ If not installed, download it from: [Oracle Java Downloads](https://www.oracle.c
 ASTC/
 │
 ├── src/
-│   ├── Task.java
-│   ├── TaskEngine.java
-│   ├── Airplane.java
-│   ├── GroundNetwork.java
-│   ├── NetworkLink.java
-│   ├── Link.java
-│   ├── TaskDescription.java
-│   ├── GUI/
-│       ├── LoginPage.java
-│       ├── PlaneForm.java
-│       ├── PlaneData.java
-│       ├── DesiredAirplane.java
+│ ├── Airplane.java
+│ ├── CurrentClock.java
+│ ├── Gate.java
+│ ├── GroundNetwork.java
+│ ├── Link.java
+│ ├── NetworkLink.java
+│ ├── PathFinder.java
+│ ├── Runway.java
+│ ├── SystemClock.java
+│ ├── SystemTime.java
+│ ├── Task.java
+│ ├── TaskDescription.java
+│ ├── TaskEngine.java
+│ ├── Tasks.java
+│ ├── Taxiway.java
+│ ├── Time.java
+│ │
+│ ├── GUI/
+│ │ ├── LoginPage.java
+│ │ ├── PlaneForm.java
+│ │ ├── PlaneData.java
+│ │ ├── DesiredAirplane.java
 │
-├── assets/                # Screenshots go here
-│   ├── login_page.png
-│   ├── plane_form.png
-│   ├── plane_data.png
-│   ├── desired_airplane.png
-│   └── task_description.png
 └── README.md
 ```
 
